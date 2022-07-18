@@ -16,7 +16,7 @@
 ## Repos
 ### [issue-tracker](https://github.com/jminie-o8o/issue-tracker)
 - 이슈/마일스톤 관리 프로젝트입니다.
-- 마일스톤 / 이슈 / 라벨 관련 API와 더불어 Oauth를 이용한 로그인 기능을 제공합니다.
+- 마일스톤 / 이슈 / 라벨 관련 API와 더불어 Oauth를 이용한 JWT 로그인 기능을 제공하는 Spring Boot 기반 백엔드 서버를 구현했습니다.
 - 로그인 기능의 경우 카카오와 Github 복수의 클라이언트의 동작 방식에 맞추어 다형성으로 동작할 수 있는 객체지향적 [코드](https://github.com/jminie-o8o/issue-tracker/blob/main/BE/src/main/java/kr/codesquad/issuetraker/sevice/LoginService.java)를 작성하는 데에 집중했습니다.
 
 
