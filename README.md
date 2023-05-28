@@ -1,9 +1,7 @@
 <div align='center'>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Senglee%20Choi%27s&fontSize=70&animation=fadeIn)
-
-![Senglee Choi's Github Stats](https://github-readme-stats.vercel.app/api?username=street62&hide=stars&count_private=true)
-    
+  
 안녕하세요.
 
 **늘 'why'를 고민하는 개발자** 최승리입니다.
@@ -35,7 +33,7 @@
 학습하고 프로그래밍하는 과정에서 부딪힌 여러 궁금증들을 글로 풀어내고 있습니다. 정답을 찾기보다는 문제를 해결해 나가는 과정을 돌아보고, '왜 필요할까, 왜 이렇게 동작할까' 질문을 던지며 기술에 대한 이해를 높이고자 노력합니다.
 
 - [눈 씻고 로그인 로직 버그 찾기](https://keepseeking.tistory.com/15): 로그인 로직 구현 중 자바의 Optional과 관련해 발생한 문제를 돌아본 글입니다. 문제의 원인이었던 `orElse()`와 `orElseGet()`의 차이뿐만 아니라, 그 속에 있는 함수형 인터페이스의 작동 원리와 필요성에 대해 고민해 보았습니다.
-- [백만 개 Row를 수정하다가 트랜잭션을 롤백한다면?](https://keepseeking.tistory.com/18): 매우 큰 규모의 트랜잭션을 롤백해야 할 때, DBMS 별로 트랜잭션의 ACID를 구현하기 위해 선택한 설계 방식과 장단점에 대해 탐구한 글입니다.
+- [백만 개 Row를 수정하다가 트랜잭션을 롤백한다면?](https://keepseeking.tistory.com/18): 매우 큰 규모의 트랜잭션을 롤백해야 할 때, DBMS 별로 MVCC를 구현하기 위해 선택한 설계 방식과 장단점에 대해 탐구한 글입니다.
 - [해시테이블 하나에 담긴 고민들](https://keepseeking.tistory.com/19): 자바의 LinkedHashMap과 파이썬의 Dictionary의 내부 구조를 살펴보면서, 더 효율적으로 동작하는 자료구조를 구현하기 위한 언어 설계 과정에서의 의사결정과 문제 해결 과정을 분석한 글입니다.
 - [외계어 같은 Git 메시지들을 이해해 보자](https://keepseeking.tistory.com/17): Git을 통해 add, commit, push를 진행하는 과정에서 등장하는 CLI 상의 메시지들을 분석하며, git이 내부적으로 어떤 구조를 통해 코드를 저장하고 변경사항을 추적하는지 풀어낸  글입니다.
 - [그래서 다익스트라는 얼마나 걸리는 거예요?](https://keepseeking.tistory.com/14): 다익스트라 알고리즘의 시간복잡도를 다익스트라의 여러 구현 방식에 따라 분석한 글입니다.
