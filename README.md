@@ -40,7 +40,7 @@
 - [뭔지는 알고 쓰자 WebClient!](https://keepseeking.tistory.com/13): 코드 리뷰 시에 WebClient 사용에 대해 받았던 피드백에서 출발해 RestTemplate과의 차이점과, 동기식 MVC 구조에서 WebClient를 사용할 때에 고려할 점에 대해 정리했습니다.
 
 ## Experience
-- 카카오뱅크 테크인턴 2기 (2023.01.02 ~ 2023.03.03)
+- 카카오뱅크 테크인턴 (2023.01.02 ~ 2023.03.03)
 
 ## Education
 - 코드스쿼드 2022 마스터즈 백엔드
