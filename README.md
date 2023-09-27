@@ -12,9 +12,12 @@
 
 
 ## Projects
+### [Keyme](https://github.com/Nexters/keyme-backend)
+- 친구들이 생각하는 나의 성격을 알아보는 앱입니다.
+- 응용 서비스 → 도메인 서비스 → 도메인 엔티티로 코드 의존관계를 설정하여 도메인 로직의 응집성 증대 및 단위테스트 작성이 용이하도록 설계했습니다.
+
 ### [집넘기기](https://github.com/jminie-o8o/Home-Rent-App)
 - 임시로 집을 구하는 사람들을 위한 매물 중개 앱입니다.
-- 스프링 부트 기반 서버 어플리케이션을 백엔드 2인 팀으로 개발했습니다.
 - Junit + Mockito를 이용한 단위 테스트 및 RestAssured를 사용한 API 테스트를 수행했습니다. API 테스트 진행 중 임베디드 DB를 사용함에 있어서 생기는 문제점을 발견하고 해결한 경험이 있습니다. (https://keepseeking.tistory.com/20)
 - nGrinder를 활용한 성능 테스트를 진행하면서 ORDER BY로 정렬하는 DB 쿼리에서 성능 저하가 나타남을 확인하고, 정렬 대상 컬럼을 포함한 복합 인덱스를 사용해 정렬 연산의 오버헤드를 줄인 경험이 있습니다.
 
