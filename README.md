@@ -13,7 +13,7 @@
 
 ## Projects
 ### [Keyme](https://github.com/Nexters/keyme-backend)
-- 친구들이 생각하는 나의 성격을 알아보는 앱입니다.
+- 친구들이 생각하는 나의 성격을 알아보는 앱입니다. ([App Store 링크](https://apps.apple.com/kr/app/keyme/id6458787411))
 - 응용 서비스 → 도메인 서비스 → 도메인 엔티티로 코드 의존관계를 설정하여 도메인 로직의 응집성 증대 및 단위테스트 작성이 용이하도록 설계했습니다.
 
 ### [집넘기기](https://github.com/jminie-o8o/Home-Rent-App)
@@ -43,27 +43,9 @@
 - [뭔지는 알고 쓰자 WebClient!](https://keepseeking.tistory.com/13): 코드 리뷰 시에 WebClient 사용에 대해 받았던 피드백에서 출발해 RestTemplate과의 차이점과, 동기식 MVC 구조에서 WebClient를 사용할 때에 고려할 점에 대해 정리했습니다.
 
 ## Experience
-- 카카오뱅크 테크인턴 (2023.01.02 ~ 2023.03.03)
 - Nexters 23기 백엔드 (2023.07~)
+- 카카오뱅크 테크인턴 (2023.01.02 ~ 2023.03.03)
 
 ## Education
 - 코드스쿼드 2022 마스터즈 백엔드
 - 연세대학교 언론홍보영상학부 졸업
-
-
-
-
-<!--
-**street62/street62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
