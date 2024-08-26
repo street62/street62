@@ -7,7 +7,7 @@
 </div>
 
 ## Experience
-- 메이아이(mAy-i) BE (2023.11 ~ )
+- 메이아이(mAy-i) Product Team BE (2023.11 ~ )
 - Nexters 23기 BE (2023.07 ~ 2023.08)
 - 카카오뱅크 테크인턴 (2023.01 ~ 2023.03)
 
